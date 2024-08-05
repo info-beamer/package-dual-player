@@ -11,6 +11,7 @@
             "name": "asset",
             "type": "resource",
             "valid": ["image", "video"],
+            "features": ["hevc", "image4k"],
             "default": "empty.png"
         }, {
             "title": "Play time (in seconds)",
@@ -31,6 +32,7 @@
             "name": "asset",
             "type": "resource",
             "valid": ["image", "video"],
+            "features": ["hevc", "image4k"],
             "default": "empty.png"
         }, {
             "title": "Play time (in seconds)",
